@@ -1,2 +1,2 @@
-# SchoolCodeAssignments
-Various assignments I have done for school using different languages
+# Coding Projects
+Various assignments I have done for school or club using different languages
